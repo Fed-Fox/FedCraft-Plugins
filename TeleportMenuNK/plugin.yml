@@ -1,0 +1,22 @@
+name: TeleportMenuNK
+main: ru.fedfox.TPMNK.Main
+version: 1.28
+api: 1.0.14
+author: FedFox
+
+permissions:
+  fc.tpl.use:
+    description: Использование команды tpl
+    default: op
+  fc.lobby.use:
+    description: Использование команды lobby
+    default: op
+  fc.provodnik.use:
+    description: Использование команды provodnik
+    default: op
+  fc.fctp.use:
+    default: op
+    description:  Использование команды fctp
+  fc.items.use:
+    description: Использование предсетов в лобби
+    default: op

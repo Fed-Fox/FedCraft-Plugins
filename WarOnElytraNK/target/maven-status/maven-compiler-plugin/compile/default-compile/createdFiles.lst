@@ -1,0 +1,10 @@
+ru\fedfox\WOENK\Commands\Woel.class
+ru\fedfox\WOENK\Tasks\Rooms.class
+ru\fedfox\WOENK\Tasks\RoomsTeleport.class
+ru\fedfox\WOENK\Base\CmdBase.class
+ru\fedfox\WOENK\Base\UtilBase.class
+ru\fedfox\WOENK\Tasks\Barrier.class
+ru\fedfox\WOENK\Base\RoomBase.class
+ru\fedfox\WOENK\WarOnElytra.class
+ru\fedfox\WOENK\Events\PlayersEvents.class
+ru\fedfox\WOENK\Events\RoomsWin.class

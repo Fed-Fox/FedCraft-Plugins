@@ -1,0 +1,13 @@
+name: WarOnElytraNK
+main: ru.fedfox.WOENK.WarOnElytra
+version: 1.2
+api: 1.0.14
+author: FedFox
+
+permissions:
+  fc.wnel.use:
+    description: Использование команды wnel
+    default: op
+  fc.nozaptocmdwoel.use:
+    description: Отключение запрета команд в игре War on Elytra
+    default: op
